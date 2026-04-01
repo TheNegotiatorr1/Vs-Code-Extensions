@@ -2,7 +2,7 @@
   "name": "dark-theme",
   "displayName": "Midnight Purple",
   "description": "Just a midnight purple theme",
-  "version": "1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.110.0"
   },
