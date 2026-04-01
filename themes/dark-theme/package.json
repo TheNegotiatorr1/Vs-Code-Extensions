@@ -1,0 +1,26 @@
+{
+  "name": "dark-theme",
+  "displayName": "Dakr Theme",
+  "description": "Just a dakr theme to use at midnight",
+  "publisher": "The_Negotiator1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheNegotiatorr1/Vs-Code-Extensions.git"
+  },
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-theme.json"
+      }
+    ]
+  }
+}
