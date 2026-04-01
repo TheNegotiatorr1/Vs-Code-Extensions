@@ -1,8 +1,13 @@
 {
-  "name": "dark-theme",
+  "name": "midnight-purple-theme",
   "displayName": "Midnight Purple",
   "description": "Just a midnight purple theme",
+  "publisher": "The_Negotiator1",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheNegotiatorr1/Vs-Code-Extensions.git"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
