@@ -1,0 +1,21 @@
+{
+  "name": "dark-theme",
+  "displayName": "Midnight Purple",
+  "description": "Just a midnight purple theme",
+  "version": "1.0",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Purple Theme-color-theme.json"
+      }
+    ]
+  }
+}
